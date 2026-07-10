@@ -1,0 +1,19 @@
+# Binaries
+netscan
+netscan.exe
+*.test
+*.out
+
+# Go build/test artifacts
+/bin/
+/dist/
+
+# Coverage
+coverage.txt
+coverage.html
+
+# OS/editor cruft
+.DS_Store
+.idea/
+.vscode/
+*.swp
