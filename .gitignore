@@ -1,6 +1,6 @@
 # Binaries
-netscan
-netscan.exe
+go-network-scanner
+go-network-scanner.exe
 *.test
 *.out
 
